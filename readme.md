@@ -14,3 +14,15 @@
 
 ### Lecture 6 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%206/Lecture%206%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Reactive Forms and Template Driven Forms in Angular</a>
 
+### Lecture 7 - Asynchronous / Synchronous Programming. Callbacks, Promises, Async Await, Observables. rxjs.
+
+### Lecture 8 - State Management. Angular Services.
+
+### Lecture 9 - Passing data between components.
+
+### Lecture 10 - Angular Routing / Navigation. Route Guards.
+
+### Lecture 11 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
+
+### Lecture 12 - Brief Introduction to Ionic Components
+
