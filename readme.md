@@ -14,7 +14,7 @@
 
 ### Lecture 4 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%204/Lecture%204%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Understand Angular and Ionic application folder structure. Intro to NPM</a>
 
-### Lecture 5 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%205/Lecture%205%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Lifecycle methods in Angular and Ionic</a>
+### Lecture 5 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%205/Lecture%205%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Lifecycle methods in Angular and Ionic</a>. Here's <a href="https://github.com/alamgirqazi/MAD-workbooks">Link </a> to Source Code (what we did in class).
 
 ### Lecture 6 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%206/Lecture%206%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Reactive Forms and Template Driven Forms in Angular</a>
 
