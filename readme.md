@@ -29,3 +29,5 @@
 ### Lecture 11 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
 
 ### Lecture 12 - Brief Introduction to Ionic Components
+
+> I've added a pdf sharing what skills you need to learn in future relevant to your jobs after graduation. It's something that would also help you out for your final year project. Here's the <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Skills%20to%20learn.pdf">link </a>
