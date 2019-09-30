@@ -1,6 +1,6 @@
 ## Course Lectures for IT 332 Mobile Application Development
 
-## Announcement: Quiz #1 will be on Friday (4-0CT-2019). Slides till lecture 4.
+## Announcement: Quiz #1 will be on Friday OCT-2019). Slides till lecture 4.
 
 ###### Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**
 
@@ -20,11 +20,11 @@
 
 ### Lecture 7 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%207/Lecture%207%20-%20Mobile%20Application%20Development.pdf" target="_blank">Asynchronous / Synchronous Programming. Callbacks, Promises, Async Await, Observables. rxjs. </a>
 
-### Lecture 8 - State Management. Angular Services.
+### Lecture 8 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%208/Lecture%208%20-%20Mobile%20Application%20Development.pdf" Angular Routing and Navigation>.</a> <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture8">Link to Code</a>
 
-### Lecture 9 - Passing data between components.
+### Lecture 9 - State Management. Angular Services.
 
-### Lecture 10 - Angular Routing / Navigation. Route Guards.
+### Lecture 10 - Passing data between components.
 
 ### Lecture 11 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
 
