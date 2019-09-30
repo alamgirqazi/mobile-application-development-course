@@ -24,7 +24,7 @@
 
 ### Lecture 9 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%209/Lecture%209%20-%20Mobile%20Application%20Development.pdf">State Management and Services.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture9"> Link </a> to Code.
 
-### Lecture 10 - Passing data between components.
+### Lecture 10 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2010/Lecture%2010%20-%20Mobile%20Application%20Development.pdf">Passing data between components.</a> <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture10"> Link </a> to Code.
 
 ### Lecture 11 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
 
