@@ -20,9 +20,9 @@
 
 ### Lecture 7 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%207/Lecture%207%20-%20Mobile%20Application%20Development.pdf" target="_blank">Asynchronous / Synchronous Programming. Callbacks, Promises, Async Await, Observables. rxjs. </a>
 
-### Lecture 8 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%208/Lecture%208%20-%20Mobile%20Application%20Development.pdf" Angular Routing and Navigation>.</a> <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture8">Link to Code</a>
+### Lecture 8 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%208/Lecture%208%20-%20Mobile%20Application%20Development.pdf" >Angular Routing and Navigation.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture8"> Link</a> to Code
 
-### Lecture 9 - State Management. Angular Services.
+### Lecture 9 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%209/Lecture%209%20-%20Mobile%20Application%20Development.pdf">State Management and Services.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture9"> Link </a> to Code.
 
 ### Lecture 10 - Passing data between components.
 
