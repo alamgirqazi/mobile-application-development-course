@@ -21,17 +21,17 @@
 
 #### Lecture 4 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%204/Lecture%204%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Understand Angular and Ionic application folder structure. Intro to NPM</a>
 
-#### Lecture 5 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%205/Lecture%205%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Lifecycle methods in Angular and Ionic</a>. Here's <a href="https://github.com/alamgirqazi/MAD-workbooks">Link </a> to Code.
+#### Lecture 5 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%205/Lecture%205%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Lifecycle methods in Angular and Ionic</a>. Here's <a href="https://github.com/alamgirqazi/MAD-workbooks">link </a> to code.
 
 #### Lecture 6 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%206/Lecture%206%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Reactive Forms and Template Driven Forms in Angular</a>
 
 #### Lecture 7 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%207/Lecture%207%20-%20Mobile%20Application%20Development.pdf" target="_blank">Asynchronous / Synchronous Programming. Callbacks, Promises, Async Await, Observables. rxjs. </a>
 
-#### Lecture 8 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%208/Lecture%208%20-%20Mobile%20Application%20Development.pdf" >Angular Routing and Navigation.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture8"> Link</a> to Code.
+#### Lecture 8 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%208/Lecture%208%20-%20Mobile%20Application%20Development.pdf" >Angular Routing and Navigation.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture8"> link</a> to code.
 
-#### Lecture 9 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%209/Lecture%209%20-%20Mobile%20Application%20Development.pdf">State Management and Services.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture9"> Link </a> to Code.
+#### Lecture 9 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%209/Lecture%209%20-%20Mobile%20Application%20Development.pdf">State Management and Services.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture9"> link </a> to code.
 
-#### Lecture 10 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2010/Lecture%2010%20-%20Mobile%20Application%20Development.pdf">Passing data between components.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture10"> Link </a> to Code.
+#### Lecture 10 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2010/Lecture%2010%20-%20Mobile%20Application%20Development.pdf">Passing data between components.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture10"> link </a> to code.
 
 #### Lecture 11 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
 
