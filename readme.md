@@ -1,6 +1,6 @@
 ## Course Lectures for IT 332 Mobile Application Development
 
-## Announcement: Quiz #1 will be on Friday OCT-2019). Slides till lecture 4.
+## Announcement: Quiz #1 will be on Friday 4-OCT-2019). Slides till lecture 4.
 
 ###### Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**
 
