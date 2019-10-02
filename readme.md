@@ -23,7 +23,7 @@
 
 #### Lecture 5 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%205/Lecture%205%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Lifecycle methods in Angular and Ionic</a>. Here's <a href="https://github.com/alamgirqazi/MAD-workbooks">link </a> to code.
 
-#### Lecture 6 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%206/Lecture%206%20-%20Mobile%20Application%20Development.pdf" target="_blank"> Reactive Forms and Template Driven Forms in Angular</a>
+#### Lecture 6 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%206/Lecture%206%20-%20Mobile%20Application%20Development.pdf" target="_blank">Forms in Angular.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture6"> link</a> to code.
 
 #### Lecture 7 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%207/Lecture%207%20-%20Mobile%20Application%20Development.pdf" target="_blank">Asynchronous / Synchronous Programming. Callbacks, Promises, Async Await, Observables. rxjs. </a>
 
