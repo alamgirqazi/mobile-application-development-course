@@ -43,4 +43,4 @@
 
 > I've added a pdf sharing what skills you need to learn in future relevant to your jobs after graduation. It's something that would also help you out for your final year project. Here's the <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Skills%20to%20learn.pdf">link </a>
 
-> If you want to learn Web development from scratch, take a look at this <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Course%20Outline%20BSSE%20F16.pdf">link </a>
+> If you want to learn Web development from scratch, take a look at this <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/webdev.pdf">link </a>
