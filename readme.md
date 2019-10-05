@@ -7,6 +7,10 @@
 #### Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**
 <br/>
 
+#### [Here](#extra) is how you can improve your Quiz scores. 
+
+
+
 ## Course Lectures
 
 
@@ -39,6 +43,16 @@
 #### Lecture 12 - Brief Introduction to Ionic Components
 
 <br/>
+
+
+## <a name="extra">Extra Credits for Quizzes / Assignments </a>
+
+These tasks are completely optional. The purpose of them is you help you learn different USEFUL things which will be valuable for your FYP and for your job in future and also to help you repair and improve your Quiz scores. 
+
+If you complete one task, You could increase as much as 3 to 4 marks in Quiz or Assignment. These could also be used to improve your mid-terms results. 
+
+The tasks will be uploaded soon.
+
 
 ## Extras 
 
