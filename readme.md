@@ -50,8 +50,7 @@ These tasks are completely optional. The purpose of them is you help you learn d
 
 If you complete one task, You could increase as much as 3 to 4 marks in Quiz or Assignment. These could also be used to improve your mid-terms results. 
 
-The tasks will be uploaded soon.
-
+#### Task 1: <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Extra%20Tasks%20-%20Task%201.pdf"> Create an Angular app and deploy it to Netlify.com.</a>
 
 ## Extras 
 
