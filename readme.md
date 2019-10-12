@@ -52,6 +52,16 @@ If you complete one task, You could increase as much as 3 to 4 marks in Quiz or 
 
 #### Task 1: <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Extra%20Tasks%20-%20Task%201.pdf"> Create an Angular app and deploy it to Netlify.com.</a>
 
+#### Task 2: Create a Node.js application that connects to MongoDB and performs Authentication.
+
+Due to request of some students who told me that the in-depth tutorials/guides have been helpful for them in learning, I have created a very basic guide through which you can learn Node.js [A very basic introduction to Node.js - Part 1](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-1/).
+
+Do follow the above tutorial on your own and you'll see how easy it is to get started with Node.js.
+
+The part 2 of this is still in progess in which we'll cover building a REST API in Node.js / Express.js framework. We will be using MongoDB and create a simple Web App with Authentication.
+
+Do wait for the part 2 to be out before attempting the Task.
+
 ## Extras
 
 > I've added a pdf sharing what skills you need to learn in future relevant to your jobs after graduation. It's something that would also help you out for your final year project. Here's the <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Skills%20to%20learn.pdf">link </a>
