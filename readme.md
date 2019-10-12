@@ -2,16 +2,15 @@
 
 ## Announcements
 
-#### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~
+#### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~ <a href="">Quiz Answers. </a>
 
-#### Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**
+#### ~~Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**~~
 
-#### [Here](#extra) is how you can improve your Quiz scores. 
+#### [Here](#extra) is how you can improve your Quiz scores.
 
 <br/>
 
 ## Course Lectures
-
 
 #### Course Outline - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Course%20Outline%20BSSE%20F16.pdf"> Course Outline BSSE F16 </a>
 
@@ -43,16 +42,15 @@
 
 <br/>
 
-
 ## <a name="extra">Extra Credits for Quizzes / Assignments </a>
 
-These tasks are completely optional. The purpose of them is you help you learn different USEFUL things which will be valuable for your FYP and for your job in future and also to help you repair and improve your Quiz scores. 
+These tasks are completely optional. The purpose of them is you help you learn different USEFUL things which will be valuable for your FYP and for your job in future and also to help you repair and improve your Quiz scores.
 
-If you complete one task, You could increase as much as 3 to 4 marks in Quiz or Assignment. These could also be used to improve your mid-terms results. 
+If you complete one task, You could increase as much as 3 to 4 marks in Quiz or Assignment. These could also be used to improve your mid-terms results.
 
 #### Task 1: <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Extra%20Tasks%20-%20Task%201.pdf"> Create an Angular app and deploy it to Netlify.com.</a>
 
-## Extras 
+## Extras
 
 > I've added a pdf sharing what skills you need to learn in future relevant to your jobs after graduation. It's something that would also help you out for your final year project. Here's the <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Skills%20to%20learn.pdf">link </a>
 
