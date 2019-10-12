@@ -6,6 +6,8 @@
 
 #### ~~Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**~~
 
+#### Assignment # 2 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%202.pdf">here</a>. Last date of submission is **28-Oct-2019**
+
 #### [Here](#extra) is how you can improve your Quiz scores.
 
 <br/>
