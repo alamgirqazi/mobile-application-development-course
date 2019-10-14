@@ -38,9 +38,11 @@
 
 #### Lecture 10 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2010/Lecture%2010%20-%20Mobile%20Application%20Development.pdf">Passing data between components.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture10"> link </a> to code.
 
-#### Lecture 11 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
+#### Lecture 11 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2011/Lecture%2011%20-%20Mobile%20Application%20Development.pdf">Shared Modules.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture11"> link </a> to code.
 
 #### Lecture 12 - Brief Introduction to Ionic Components
+
+#### Lecture 13 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
 
 <br/>
 
