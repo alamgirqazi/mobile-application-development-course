@@ -8,6 +8,8 @@
 
 #### Assignment # 2 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%202.pdf">here</a>. Last date of submission is **28-Oct-2019**
 
+#### Semester Project Outline has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Outline.pdf">here</a>.
+
 #### [Here](#extra) is how you can improve your Quiz scores.
 
 <br/>
