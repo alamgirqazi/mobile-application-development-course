@@ -45,6 +45,7 @@
 #### Lecture 11 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2011/Lecture%2011%20-%20Mobile%20Application%20Development.pdf">Shared Modules.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture11"> link </a> to code.
 
 #### Lecture 12 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2012/Lecture%2012%20-%20Mobile%20Application%20Development.pdf">Brief Introduction to Ionic Components</a>. Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture12">link</a> to code.
+
 #### Lecture 13 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2013/Lecture%2013%20-%20Mobile%20Application%20Development.pdf">Loading Asynchronous Data in Ionic</a>. Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture13">link</a> to code.
 
 #### Lecture 14 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
@@ -61,13 +62,11 @@ If you complete one task, You could increase as much as 3 to 4 marks in Quiz or 
 
 #### Task 2: Create a Node.js application that connects to MongoDB and performs Authentication.
 
-Due to request of some students who told me that the in-depth tutorials/guides have been helpful for them in learning, I have created a very basic guide through which you can learn Node.js [A very basic introduction to Node.js - Part 1](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-1/).
+[A very basic introduction to Node.js - Part 1](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-1/)
+
+[A very basic introduction to Node.js - Part 2](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-2/)
 
 Do follow the above tutorial on your own and you'll see how easy it is to get started with Node.js.
-
-The part 2 of this is still in progess in which we'll cover building a REST API in Node.js / Express.js framework. We will be using MongoDB and create a simple Web App with Authentication.
-
-Do wait for the part 2 to be out before attempting the Task.
 
 ## Extras
 
