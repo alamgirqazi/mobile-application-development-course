@@ -2,17 +2,15 @@
 
 ## Announcements
 
-### Midterm course is from Lecture 0 to Lecture 10 excluding lecture 7.
+#### Semester Project Outline has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Outline.pdf">here</a>. Link to Guideline is <a> here </a>.
+
+#### [Here](#extra) is how you can improve your Quiz scores.
 
 #### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%201%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
 
 #### ~~Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**~~
 
-#### Assignment # 2 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%202.pdf">here</a>. Last date of submission is **28-Oct-2019**
-
-#### Semester Project Outline has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Outline.pdf">here</a>.
-
-#### [Here](#extra) is how you can improve your Quiz scores.
+#### ~~Assignment # 2 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%202.pdf">here</a>. Last date of submission is **28-Oct-2019**~~
 
 <br/>
 
@@ -48,7 +46,13 @@
 
 #### Lecture 13 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2013/Lecture%2013%20-%20Mobile%20Application%20Development.pdf">Loading Asynchronous Data in Ionic</a>. Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture13">link</a> to code.
 
-#### Lecture 14 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
+#### Lecture 14 - Capacitor and Cordova
+
+#### Lecture 15 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
+
+#### Lecture 16 - Using Ionic Storage
+
+#### Lecture 17 - Firebase and FireStore
 
 <br/>
 
