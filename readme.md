@@ -2,9 +2,11 @@
 
 ## Announcements
 
-#### Semester Project Outline has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Outline.pdf">here</a>. Link to Guideline is <a> here </a>.
+#### Semester Project Outline has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Outline.pdf">here</a>. Link to Guideline is <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Guideline.pdf"> here </a>.
 
 #### [Here](#extra) is how you can improve your Quiz scores.
+
+#### Quiz #2 will be on Friday (6-Dec-2019). Slides 7, 11, 12 and 13.
 
 #### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%201%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
 
