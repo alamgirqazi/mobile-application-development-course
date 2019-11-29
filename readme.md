@@ -34,7 +34,7 @@
 
 #### Lecture 6 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%206/Lecture%206%20-%20Mobile%20Application%20Development.pdf" target="_blank">Forms in Angular.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture6"> link</a> to code.
 
-#### Lecture 7 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%207/Lecture%207%20-%20Mobile%20Application%20Development.pdf" target="_blank">Asynchronous / Synchronous Programming. Callbacks, Promises, Async Await, Observables. rxjs. </a>
+#### Lecture 7 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%207/Lecture%207%20-%20Mobile%20Application%20Development.pdf" target="_blank">Asynchronous / Synchronous Programming. Callbacks, Promises, Async Await, Observables. rxjs. </a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture7"> link</a> to code.
 
 #### Lecture 8 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%208/Lecture%208%20-%20Mobile%20Application%20Development.pdf" >Angular Routing and Navigation.</a> Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture8"> link</a> to code.
 
@@ -48,13 +48,11 @@
 
 #### Lecture 13 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2013/Lecture%2013%20-%20Mobile%20Application%20Development.pdf">Loading Asynchronous Data in Ionic</a>. Here's <a href="https://github.com/alamgirqazi/MAD-workbooks/tree/lecture13">link</a> to code.
 
-#### Lecture 14 - Capacitor and Cordova
+#### Lecture 14 -  <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2014/Lecture%2014%20-%20Mobile%20Application%20Development.pdf">Capacitor and Cordova</a>.
 
 #### Lecture 15 - Web Storage APIs (Ionic Storage, WebSQL, IndexedDB, LocalStorage) and other storage options (Sqlite).
 
-#### Lecture 16 - Using Ionic Storage
-
-#### Lecture 17 - Firebase and FireStore
+#### Lecture 16 - NoSQL / Firebase / FireStore
 
 <br/>
 
