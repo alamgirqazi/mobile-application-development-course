@@ -8,6 +8,16 @@
 
 #### Quiz #2 will be on Friday (6-Dec-2019). Slides 7, 11, 12 and 13.
 
+### Tutorials
+
+[A very basic introduction to Node.js - Part 1](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-1/)
+
+[A very basic introduction to Node.js - Part 2](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-2/)
+
+[A very basic introduction to Node.js - Part 3](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-3/)
+
+[A very basic introduction to Node.js - Part 4](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-4/)
+
 #### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%201%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
 
 #### ~~Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**~~
