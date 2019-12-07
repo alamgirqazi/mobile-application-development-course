@@ -16,9 +16,9 @@
 
 [A very basic introduction to Node.js - Part 3](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-3/)
 
-[A very basic introduction to Node.js - Part 4](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-4/)
-[A very basic introduction to Node.js - Part 5
-](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-5/)
+[A very basic introduction to Node.js - Part 4](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-4/)<br/>
+
+[A very basic introduction to Node.js - Part 5](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-5/)
 
 #### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%201%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
 
