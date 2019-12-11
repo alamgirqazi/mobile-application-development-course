@@ -64,7 +64,8 @@
 
 #### Lecture 15 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2015/Lecture%2015%20-%20Mobile%20Application%20Development.pdf"> Web Storage APIs / Ionic Storage. </a>
 
-#### Lecture 16 - NoSQL / Firebase / FireStore
+#### Lecture 16 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2016/Lecture%2016%20-%20Mobile%20Application%20Development.pdf"> NoSQL Databases. </a>
+
 
 <br/>
 
