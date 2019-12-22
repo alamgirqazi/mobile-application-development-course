@@ -4,6 +4,18 @@
 
 #### Semester Project Outline has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Outline.pdf">here</a>. Link to Guideline is <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Guideline.pdf"> here </a>.
 
+#### Semester Project Checklist 
+* Number of Commits
+* Github Readme file with details
+* Screenshots on Github
+* Number of pages / modules
+* UI (User Interface) / UX (User Experience)
+* Usage of Loaders
+* Usage of MongoDB / FireBase
+* Usage of Backend / Node.js
+* Usability of the Application
+* Complexity of the Application
+
 #### [Here](#extra) is how you can improve your Quiz scores.
 
 ### Tutorials
@@ -21,6 +33,8 @@
 [A very basic introduction to Node.js - Part 6](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-6/)
 
 [A very basic introduction to Node.js - Part 7](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-7/)
+
+[A very basic introduction to Node.js - Part 8](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-8/)
 
 #### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%201%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
 
@@ -70,6 +84,10 @@
 
 #### Lecture 16 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2016/Lecture%2016%20-%20Mobile%20Application%20Development.pdf"> NoSQL Databases. </a>
 
+#### Lecture 17 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2017/Lecture%2017%20-%20Mobile%20Application%20Development.pdf"> Targetting multiple platforms in Ionic and Crashlytics. </a>
+
+#### Lecture 18 - <a> Firebase / FireStore. </a>
+
 <br/>
 
 ## <a name="extra">Extra Credits for Quizzes / Assignments </a>
@@ -98,8 +116,8 @@ Do follow the above tutorial on your own and you'll see how easy it is to get st
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars2.githubusercontent.com/u/55571258?v=4" width="100px;"/><br /><sub><b>Saad Farooq</b></sub>](https://github.com/saadfarooq3198) | [<img src="https://avatars2.githubusercontent.com/u/48089976?v=4" width="100px;"/><br /><sub><b>Abdullah Khan</b></sub>](https://github.com/abdullah432)<br />| [<img src="https://avatars0.githubusercontent.com/u/45936390?v=4" width="100px;"/><br /><sub><b>AHSAN EJAZ</b></sub>](https://github.com/Ahsankhansadozai)<br /> | [<img src="https://avatars3.githubusercontent.com/u/55310273?v=4" width="100px;"/><br /><sub><b>SAFWAN MAHMOOD</b></sub>](https://github.com/safwan-3201)<br />|[<img src="https://avatars2.githubusercontent.com/u/45399924?v=4" width="100px;"/><br /><sub><b>MUHAMMAD SHAHZAIB</b></sub>](https://github.com/xaibe)<br /> | [<img src="https://avatars0.githubusercontent.com/u/55254462?v=4" width="100px;"/><br /><sub><b>USAMA ZAHID</b></sub>](https://github.com/usamazahid3222)<br /> | [<img src="https://avatars1.githubusercontent.com/u/55654063?v=4" width="100px;"/><br /><sub><b>MUHAMMAD LUQMAN ALI</b></sub>](https://github.com/Luqman138)<br /> |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://avatars2.githubusercontent.com/u/55571258?v=4" width="100px;"/><br /><sub><b>Saad Farooq</b></sub>](https://github.com/saadfarooq3198) | [<img src="https://avatars2.githubusercontent.com/u/48089976?v=4" width="100px;"/><br /><sub><b>Abdullah Khan</b></sub>](https://github.com/abdullah432)<br /> | [<img src="https://avatars0.githubusercontent.com/u/45936390?v=4" width="100px;"/><br /><sub><b>AHSAN EJAZ</b></sub>](https://github.com/Ahsankhansadozai)<br /> | [<img src="https://avatars3.githubusercontent.com/u/55310273?v=4" width="100px;"/><br /><sub><b>SAFWAN MAHMOOD</b></sub>](https://github.com/safwan-3201)<br /> | [<img src="https://avatars2.githubusercontent.com/u/45399924?v=4" width="100px;"/><br /><sub><b>MUHAMMAD SHAHZAIB</b></sub>](https://github.com/xaibe)<br /> | [<img src="https://avatars0.githubusercontent.com/u/55254462?v=4" width="100px;"/><br /><sub><b>USAMA ZAHID</b></sub>](https://github.com/usamazahid3222)<br /> | [<img src="https://avatars1.githubusercontent.com/u/55654063?v=4" width="100px;"/><br /><sub><b>MUHAMMAD LUQMAN ALI</b></sub>](https://github.com/Luqman138)<br /> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 | [<img src="https://avatars3.githubusercontent.com/u/55571257?v=4" width="100px;"/><br /><sub><b>MUHAMMAD OWAIS</b></sub>](https://github.com/Owais3227) | [<img src="https://avatars3.githubusercontent.com/u/55326875?v=4" width="100px;"/><br /><sub><b>JAWAD MEHMOOD QURESHI</b></sub>](https://github.com/Jawad-Qurreshi)<br /> | [<img src="https://avatars3.githubusercontent.com/u/55357938?v=4" width="100px;"/><br /><sub><b>USAMA KHURSHID</b></sub>](https://github.com/UsamaKhurshid3240)<br /> | [<img src="https://avatars1.githubusercontent.com/u/56217435?v=4" width="100px;"/><br /><sub><b>MUHAMMAD IDREES</b></sub>](https://github.com/idreeskhan3251)<br /> | [<img src="https://avatars1.githubusercontent.com/u/56145920?v=4" width="100px;"/><br /><sub><b>MUHAMMAD HAMZA KHALID MIRZA</b></sub>](https://github.com/hamzakhalid63)<br /> | [<img src="https://avatars1.githubusercontent.com/u/57092737?v=4" width="100px;"/><br /><sub><b>MUHAMMAD FARMAN RAZA</b></sub>](https://github.com/Muhammad-Farman-Raza)<br /> | [<img src="https://avatars2.githubusercontent.com/u/55922433?v=4" width="100px;"/><br /><sub><b>MUHAMMAD RIFFAT ABBAS</b></sub>](https://github.com/riffatawan86)<br /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
