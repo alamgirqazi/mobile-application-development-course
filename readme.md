@@ -36,6 +36,13 @@
 
 [A very basic introduction to Node.js - Part 8](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-8/)
 
+Using FireStore (Firebase) with Angular / Ionic (coming soon)
+
+How to save Images using Node.js (coming soon)
+
+If you have any topics you want me to cover after exams, email me. 
+
+
 #### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%201%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
 
 #### ~~Quiz #2 will be on Friday (6-Dec-2019). Slides 7, 11, 12 and 13.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%202%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
@@ -85,8 +92,6 @@
 #### Lecture 16 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2016/Lecture%2016%20-%20Mobile%20Application%20Development.pdf"> NoSQL Databases. </a>
 
 #### Lecture 17 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2017/Lecture%2017%20-%20Mobile%20Application%20Development.pdf"> Targetting multiple platforms in Ionic and Crashlytics. </a>
-
-#### Lecture 18 - <a> Firebase / FireStore. </a>
 
 <br/>
 
