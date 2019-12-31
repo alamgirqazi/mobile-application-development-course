@@ -4,17 +4,18 @@
 
 #### Semester Project Outline has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Outline.pdf">here</a>. Link to Guideline is <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Guideline.pdf"> here </a>.
 
-#### Semester Project Checklist 
-* Number of Commits
-* Github Readme file with details
-* Screenshots on Github
-* Number of pages / modules
-* UI (User Interface) / UX (User Experience)
-* Usage of Loaders
-* Usage of MongoDB / FireBase
-* Usage of Backend / Node.js
-* Usability of the Application
-* Complexity of the Application
+#### Semester Project Checklist
+
+- Number of Commits
+- Github Readme file with details
+- Screenshots on Github
+- Number of pages / modules
+- UI (User Interface) / UX (User Experience)
+- Usage of Loaders
+- Usage of MongoDB / FireBase
+- Usage of Backend / Node.js
+- Usability of the Application
+- Complexity of the Application
 
 #### [Here](#extra) is how you can improve your Quiz scores.
 
@@ -40,12 +41,13 @@ Using FireStore (Firebase) with Angular / Ionic (coming soon)
 
 How to save Images using Node.js (coming soon)
 
-If you have any topics you want me to cover after exams, email me. 
-
+If you have any topics you want me to cover after exams, email me.
 
 #### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%201%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
 
 #### ~~Quiz #2 will be on Friday (6-Dec-2019). Slides 7, 11, 12 and 13.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%202%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
+
+#### <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%203%20-%20MAD%20Course%20-%20Answers.pdf">Quiz 3 Answers. </a>
 
 #### ~~Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**~~
 
