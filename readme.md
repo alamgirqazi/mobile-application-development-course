@@ -1,60 +1,5 @@
 # IT 332 Mobile Application Development
 
-## Announcements
-
-#### Semester Project Outline has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Outline.pdf">here</a>. Link to Guideline is <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Guideline.pdf"> here </a>.
-
-#### Semester Project Checklist
-
-- Number of Commits
-- Github Readme file with details
-- Screenshots on Github
-- Number of pages / modules
-- UI (User Interface) / UX (User Experience)
-- Usage of Loaders
-- Usage of MongoDB / FireBase
-- Usage of Backend / Node.js
-- Usability of the Application
-- Complexity of the Application
-
-#### [Here](#extra) is how you can improve your Quiz scores.
-
-### Tutorials
-
-[A very basic introduction to Node.js - Part 1](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-1/)
-
-[A very basic introduction to Node.js - Part 2](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-2/)
-
-[A very basic introduction to Node.js - Part 3](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-3/)
-
-[A very basic introduction to Node.js - Part 4](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-4/)<br/>
-
-[A very basic introduction to Node.js - Part 5](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-5/)
-
-[A very basic introduction to Node.js - Part 6](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-6/)
-
-[A very basic introduction to Node.js - Part 7](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-7/)
-
-[A very basic introduction to Node.js - Part 8](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-8/)
-
-Using FireStore (Firebase) with Angular / Ionic (coming soon)
-
-How to save Images using Node.js (coming soon)
-
-If you have any topics you want me to cover after exams, email me.
-
-#### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%201%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
-
-#### ~~Quiz #2 will be on Friday (6-Dec-2019). Slides 7, 11, 12 and 13.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%202%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
-
-#### <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%203%20-%20MAD%20Course%20-%20Answers.pdf">Quiz 3 Answers. </a>
-
-#### ~~Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**~~
-
-#### ~~Assignment # 2 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%202.pdf">here</a>. Last date of submission is **28-Oct-2019**~~
-
-<br/>
-
 ## Course Lectures
 
 #### Course Outline - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Course%20Outline%20BSSE%20F16.pdf"> Course Outline BSSE F16 </a>
@@ -94,6 +39,46 @@ If you have any topics you want me to cover after exams, email me.
 #### Lecture 16 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2016/Lecture%2016%20-%20Mobile%20Application%20Development.pdf"> NoSQL Databases. </a>
 
 #### Lecture 17 - <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/lecture%2017/Lecture%2017%20-%20Mobile%20Application%20Development.pdf"> Targetting multiple platforms in Ionic and Crashlytics. </a>
+
+<br/>
+
+### Tutorials
+
+[A very basic introduction to Node.js - Part 1](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-1/)
+
+[A very basic introduction to Node.js - Part 2](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-2/)
+
+[A very basic introduction to Node.js - Part 3](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-3/)
+
+[A very basic introduction to Node.js - Part 4](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-4/)<br/>
+
+[A very basic introduction to Node.js - Part 5](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-5/)
+
+[A very basic introduction to Node.js - Part 6](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-6/)
+
+[A very basic introduction to Node.js - Part 7](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-7/)
+
+[A very basic introduction to Node.js - Part 8](https://alamgirqazi.github.io/tech-blog/intro-to-nodejs-part-8/)
+
+Using FireStore (Firebase) with Angular / Ionic (coming soon)
+
+How to save Images using Node.js (coming soon)
+
+If you have any topics you want me to cover after exams, email me.
+
+## Announcements
+
+#### Semester Project Outline has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Outline.pdf">here</a>. Link to Guideline is <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Semester%20Project%20Guideline.pdf"> here </a>.
+
+#### ~~Quiz #1 will be on Friday (4-Oct-2019). Slides till lecture 4.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%201%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
+
+#### ~~Quiz #2 will be on Friday (6-Dec-2019). Slides 7, 11, 12 and 13.~~ <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%202%20-%20MAD%20Course%20-%20Answers.pdf">Quiz Answers. </a>
+
+#### <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/extras/Quiz%20%23%203%20-%20MAD%20Course%20-%20Answers.pdf">Quiz 3 Answers. </a>
+
+#### ~~Assignment # 1 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%201.pdf">here</a>. Last date of submission is **8-Oct-2019**~~
+
+#### ~~Assignment # 2 has been uploaded <a href="https://github.com/alamgirqazi/mobile-application-development-course/blob/master/Assignments/Assignment%20%23%202.pdf">here</a>. Last date of submission is **28-Oct-2019**~~
 
 <br/>
 
